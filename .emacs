@@ -76,6 +76,17 @@
 
 (helm-mode 1)
 
+;;flymd
+(require 'flymd)
+(defun my-flymd-browser-function (url)
+  (let ((process-environment (browse-url-process-environment)))
+    (apply 'start-process
+           (concat "firefox " url)
+           nil
+           "open"
+           (list "-a" "Firefox.app" url))))
+(setq flymd-browser-open-function 'my-flymd-browser-function)
+
 
 
 ;; modify highlight-indentation
