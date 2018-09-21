@@ -1,0 +1,111 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/lyu/Downloads/math 5260/" . "hw10-LY2305/")
+ ("c:/Users/lyu/Documents/" . "hw10-yz3286/")
+ ("c:/Users/lyu/Downloads/" . "math 5260/")
+ ("e:/" . "elisp/")
+ ("c:/Users/lyu/AppData/Roaming/.emacs.d/elpa/" . "projectile-20171009.848/")
+ ("c:/Users/lyu/AppData/Roaming/.emacs.d/" . "elpa/")
+ ("c:/Users/lyu/AppData/Roaming/" . ".emacs.d/")
+ ("c:/Users/lyu/Desktop/1sttry/mysite/" . "polls/")
+ ("c:/Users/lyu/Desktop/1sttry/" . "mysite/")
+ ("c:/Users/lyu/AppData/" . "Local/")
+ ("c:/Users/lyu/" . "Documents/")
+ ("c:/Users/" . "lyu/")
+ ("c:/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/lyu/Downloads/math 5260/hw10-LY2305/"
+ "c:/Users/lyu/Downloads/math 5260/hw8-LY2305/"
+ "c:/Users/lyu/Downloads/math 5260/hw7-LY2305/"
+ "c:/Users/lyu/Downloads/math 5260/hw6-LY2305/"
+ "c:/Users/lyu/Downloads/math 5260/hw5-LY2305/"
+ "c:/Users/lyu/Downloads/math 5260/hw4-LY2305/"
+ "c:/Users/lyu/Downloads/math 5260/hw3-LY2305/"
+ "c:/Users/lyu/Downloads/emacs2/"
+ "c:/Users/lyu/Downloads/"
+ "c:/Users/lyu/AppData/Roaming/"
+ "c:/Users/lyu/Documents/hw10-yz3286/"
+ "e:/elisp/"
+ "c:/Users/lyu/AppData/Roaming/.emacs.d/elpa/projectile-20171009.848/"
+ "c:/Users/lyu/Desktop/1sttry/mysite/polls/"
+ "c:/Users/lyu/Desktop/1sttry/mysite/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "xll_nsr.cpp"
+ "fms_pwlinear.h"
+ "fms_nsr.h"
+ "fms_hermite.h"
+ "fms_bell.h"
+ "fms_fixed_income_forward_rate_agreement.h"
+ "fms_bootstrap.h"
+ "xll_fixed_income.cpp"
+ "xllblack.cpp"
+ "root1d.h"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/lyu/Downloads/math 5260/hw10-LY2305/" (23098 57458 0 0) "xll_nsr.cpp" "fms_pwlinear.h~" "fms_pwlinear.h" "fms_nsr.h" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/hw8-LY2305/" (23098 57270 0 0) "fms_hermite.h" "fms_bell.h~" "fms_bell.h" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/hw7-LY2305/" (23098 27257 0 0) "fms_fixed_income_forward_rate_agreement.h" "fms_bootstrap.h" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/hw6-LY2305/" (23098 27246 0 0) "xll_fixed_income.cpp" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/hw5-LY2305/" (23098 27238 0 0) "fms_bootstrap.h" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/hw4-LY2305/" (23098 56075 0 0) "xllblack.cpp" "root1d.h~" "root1d.h" "black.h" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/hw3-LY2305/" (23098 27192 0 0) "xllblack.cpp" "black.h" "../" "./")
+
+ ("c:/Users/lyu/Downloads/math 5260/" (23098 27282 0 0) "MATH5260 HW .txt" "hw8-LY2305/" "hw7-LY2305/" "hw6-LY2305/" "hw5-LY2305/" "hw4-LY2305/" "hw3-LY2305/" "hw10-LY2305/" "../" "./")
+
+ ("c:/Users/lyu/Downloads/" (23098 42235 0 0) "Y-Risk Statement_September_2017.xlsx" "Y-Risk Statement_May_2017.xlsx" "Y-Risk Statement_March_2017.xlsx" "Y-Risk Statement_August_2017.xlsx" "Y-Risk Statement_April_2017.xlsx" "Y-Risk Opportunities.xlsx" "Y-Risk as of 073117.xlsx" "xllmonte.xll" "xemacs" "Werner_Modlin_Ratemaking.pdf" "Untitled.ipynb" "Time Sheet.pdf" "SQLServer2016-SSEI-Dev.exe" "Risk Analytics Framework KM edits.pptm" "QueryforReserv.org" "QueryforReserv.html" "P_2017_Q_NAIC_PT3_HSIC.xlsx" "P_2017_Q_NAIC_PT3_HIC.xlsx" "plotly.txt" "pietro-parodi-triangle-free-reserving-217-final.pdf" "Parallelogram.pdf" "npp.7.5.1.Installer.x64.exe" "npp.7.5.1.bin.minimalist.x64.7z" "Notepad++/" "math 5260/" "map.png" "map (1).png" "LossReserving.pdf" "login3.png" "login2.png" "login1.png" "Lingxiang Yu.jpg" "Kyle meeting/" "KenFikes.pdf" "jre-8u144-windows-x64.exe" "Irma_files/" "IrmaTable.xlsx" "Irma.html" "Individual Accounts.xlsx" "IMG_9112.jpg" "IMG_9110.JPG" "hw8-LY2305.zip" "hw8-LY2305/" "HW4_diff_quad.ipynb" "HW2_roots.ipynb" "HW2_roots (1).ipynb" "hw11-LY2305.zip" "hw10-yz3286.zip" "Hurricane Harvey Modeling.xls" "HM_USA_Valiant_Results_Letter_2016Q3.pdf" "Harvey - WKFC&AmWINS Risks.xlsx" "gshhg-gmt-2.3.7.tar.gz" "gshhg-gmt-2.3.7/" "get-pip.py" "Friedland_estimating.pdf" "FL_ASRU_v5.png" "Financial Applications Using Excel Add-in Development in CC++.pdf" "final.ipynb" "emacs2/" "emacs-25.3-x86_64.zip" "emacs-25.3-i686.zip" "dist2coast.txt.bz2" "dist2coast.txt" "desktop.ini" "CvgChart 1Q17.xlsx" "Copy of Y-Risk Statement_January_2017.xlsx" "Copy of Y-Risk Statement_February_2017.xlsx" "Copy of Y-Risk Statement_December_2016.xlsx" "Clark_2014.pdf" "ClaimDetailAllLine-20170901584e1d0ba7394fc68d9a24b6ccf39460.xlsx" "Chap6FAMII.ppt" "cb_2016_us_county_500k.zip" "cb_2016_us_county_500k/" "CAT Modeling Lunch & Learn.pptx" "BRS&SRU Flood Exposure.xlsx" "BRS Location Research.xlsx" "BRS Combined.xlsx" "bayesian_data_analysis.pdf" "angelina3.ppt" "88sp117.pdf" "2017Syllabus.pdf" "08_quadrature-template.ipynb" "07_differentiation-template.ipynb" "07_differentiation-template (1).ipynb" "03-Taylor.pdf" ".ipynb_checkpoints/" "../" "./")
+
+ ("c:/Users/lyu/Downloads/emacs2/" (23098 41488 0 0) "var/" "share/" "libexec/" "bin/" "1.tex~" "1.tex" "1.org~" "1.org" "1.html" "../" "./")
+
+ ("c:/Users/lyu/AppData/Roaming/" (23098 35383 0 0) "Sun/" "Skype/" "RStudio/" "Python/" "Microsoft/" "McAfee/" "Macromedia/" "jupyter/" "Jedi/" "Identities/" "Google/" "Code/" "ATI/" "Apple Computer/" "Adobe/" ".pylint.d/" ".emacs~" ".emacs.d/" ".emacs" "../" "./")
+
+ ("c:/Users/lyu/AppData/Roaming/.emacs.d/" (23098 27377 0 0) "snippets/" "ido.last~" "ido.last" "flyspell.el" "elpa/" "auto-save-list/" "../" "./")
+
+ ("c:/Users/lyu/Documents/hw10-yz3286/" (23072 33886 0 0) "xll_nsr.cpp" "fms_pwlinear.h" "fms_nsr.h" "../" "./")
+
+ ("c:/Users/lyu/Documents/" (23072 33886 0 0) "Visual Studio 2015/" "SQL Server Management Studio/" "RS/" "R/" "Python Scripts/" "My Videos/" "My Shapes/" "My Pictures/" "My Music/" "My Data Sources/" "hw10-yz3286/" "gshhg-gmt-2.3.7/" "desktop.ini" "Custom Office Templates/" ".Rhistory" "../" "./")
+
+ ("c:/Users/lyu/" (23032 28382 0 0) "Videos/" "Tracing/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "HODServers/" "HODData/" "HODCC172.16.19.111/" "Favorites/" "Envs/" "Downloads/" "Documents/" "Desktop/" "debug.log" "Cookies/" "Contacts/" "Application Data/" "AppData/" "172.16.19.111.HOD.LOC" ".vscode/" ".spyder-py3/" ".plotly/" ".matplotlib/" ".jupyter/" ".ipython/" ".condarc" ".conda/" ".anaconda/" "../" "./")
+
+ ("c:/Users/lyu/AppData/Local/" (23052 17354 0 0) "WinZip/" "WebpageIcons.db" "VMware/" "VirtualStore/" "Temporary Internet Files/" "Temp/" "RStudio-Desktop/" "Programs/" "pip/" "Microsoft Help/" "Microsoft/" "IconCache.db" "History/" "Google/" "GDIPFONTCACHEV1.DAT" "DesktopCentral_Agent/" "Continuum/" "conda/" "CEF/" "ATI/" "Application Data/" "Apple Computer/" "Apple/" "Adobe/" "../" "./")
+
+ ("c:/Users/lyu/AppData/Roaming/Apple Computer/" (22988 59927 0 0) "Preferences/" "Logs/" "iTunes/" "../" "./")
+
+ ("c:/Users/lyu/Desktop/1sttry/mysite/polls/" (23024 64301 0 0) "__pycache__/" "__init__.py" "views.py~" "views.py" "urls.py~" "urls.py" "tests.py" "models.py~" "models.py" "migrations/" "apps.py" "admin.py~" "admin.py" "#models.py#" "../" "./")
+
+ ("e:/elisp/" (23027 41148 0 0) "../" "./")
+
+ ("c:/Users/lyu/AppData/Roaming/.emacs.d/elpa/projectile-20171009.848/" (23024 48421 0 0) "projectile.elc" "projectile.el" "projectile-pkg.el" "projectile-autoloads.el" "../" "./")
+
+ ("c:/Users/lyu/AppData/Roaming/.emacs.d/elpa/" (23024 48421 0 0) "yasnippet-0.12.2/" "s-1.11.0/" "pyvenv-1.10/" "projectile-readme.txt" "projectile-20171009.848/" "pkg-info-20150517.443/" "highlight-indentation-0.6.0/" "highlight-indent-guides-readme.txt" "highlight-indent-guides-20170516.1355/" "highlight-escape-sequences-0.3/" "find-file-in-project-3.3/" "epl-20150517.433/" "elpy-1.16.1/" "company-0.9.4/" "archives/" "../" "./")
+
+ ("c:/Users/lyu/Desktop/" (23015 23075 0 0) "Untitled.ipynb" "TX Individual/" "RStudio.lnk" "research.xlsx" "MFX Admin.lnk" "map1.PNG" "Loc Con/" "la.PNG" "hello/" "flaskr/" "filter.PNG" "desktop.ini" "db setting.png" "Anaconda Prompt.lnk" "a.PNG" "1sttry/" ".ipynb_checkpoints/" "../" "./")
+
+ ("c:/Users/lyu/Desktop/1sttry/" (23012 44013 0 0) "mysite/" "../" "./")
+
+ ("c:/Users/lyu/Desktop/1sttry/mysite/" (23012 45109 0 0) "polls/" "mysite/" "manage.py" "db.sqlite3" "../" "./")
+
+ ("c:/Users/lyu/AppData/" (19036 4844 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/" (22992 2753 0 0) "Public/" "lyu/" "desktop.ini" "Default User/" "Default/" "cmacko/" "All Users/" "ahussaini/" "Administrator/" "../" "./")
+
+ ("c:/Users/lyu/Downloads/emacs2/bin/" (23015 24841 0 0) "runemacs.exe" "libXpm-nox4.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.3.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
